@@ -1,0 +1,9 @@
+.studentsList {
+  margin: 20px auto 50px auto;
+  max-width: 600px;
+  min-width: 400px;
+}
+
+.addButton {
+  margin-top: 15px;
+}
